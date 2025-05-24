@@ -1,7 +1,7 @@
 # Sorting Algorithms & Data Structure Problems
 
 A mix of algorithms and functions for sorting and general data structure problems in python.
-## File Overview
+## Features
 
 ### `q1.py`
 - Basic score sequence comparison algo (+ encoded version too)  
