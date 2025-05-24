@@ -1,4 +1,4 @@
-mix of algorithms and functions for sorting and general DS problems
+mix of algorithms & functions for sorting and general DS problems
 
 q1.py
 - basic score sequence comparison algo (+ encoded version too)
