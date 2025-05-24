@@ -1,21 +1,24 @@
-mix of algorithms & functions for sorting and general DS problems
+# Sorting Algorithms & Data Structure Problems
 
-q1.py
-- basic score sequence comparison algo (+ encoded version too)
-- run-length encoding (RLE) algo, decompression
-  
-q2.py
-- singly linked-list traversal and queue implementation
-- linked-list and array-based queue converter
-- manual linked-list construction for queue setup
+A mix of algorithms and functions for sorting and general data structure problems in python.
+## File Overview
 
-q3.py
-- quadratic and double probing function (hash tables)
+### `q1.py`
+- Basic score sequence comparison algo (+ encoded version too)  
+- Run-length encoding (RLE) algo, decompression  
 
-q4.py  
-- modulo-based pairwise difference validator
-- valid sequence check (meeting pairwise criteria)
+### `q2.py`
+- Singly linked-list traversal and queue implementation  
+- Linked-list and array-based queue converter  
+- Manual linked-list construction for queue setup  
 
-q7.py  
-- dual-privot three-way QuickSort algo (+partition function & pivot pair selection)
-- hybrid sorting algo (for initial small n<10 cases, utilising built-in sort + QuickSort for n>10)
+### `q3.py`
+- Quadratic and double probing function (hash tables)  
+
+### `q4.py`
+- Modulo-based pairwise difference validator  
+- Valid sequence check (meeting pairwise criteria)  
+
+### `q7.py`
+- Dual-pivot three-way QuickSort algo (+ partition function & pivot pair selection)  
+- Hybrid sorting algo (for initial small n < 10 cases, utilising built-in sort + QuickSort for n > 10)  
