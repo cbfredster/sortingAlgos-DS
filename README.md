@@ -1,6 +1,6 @@
 mix of algorithms and functions for sorting and general DS problems
-**q1.py**
 
+q1.py
 - basic score sequence comparison algo (+ encoded version too)
 - run-length encoding (RLE) algo, decompression
 **q2.py**
